@@ -1,9 +1,8 @@
-Maze3D
-======
-
-A 3D Maze game written in JavaScript for WebGL using THREE.js.
-
-You can control the camera with up, down, right and left arrows keys or use the virtual keys on bottom right.
-
-Author : Yannick Comte
-Licence : LGPL V2
+# Maze3D
+Juego desarrollado _100%_ en JavaScript junto a la librería de three.js
+ 
+## Descarga
+El juego no requiere de un servidor local, solo de un navegador y clonar o descargar el repositorio, así:
+- `git clone https://github.com/DevCamilo/Maze3D-Game-three.js.git`
+- `cd Maze3D-Game`
+- `index.html`
